@@ -1,4 +1,5 @@
 ---
+name: get-requirements
 title: Requirements & Problem Understanding
 description: Clarify the problem space, gather requirements, and define success criteria
 ---

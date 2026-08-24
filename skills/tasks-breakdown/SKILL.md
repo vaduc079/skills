@@ -1,4 +1,5 @@
 ---
+name: tasks-breakdown
 title: Project Planning & Task Breakdown
 description: Break down work into actionable tasks and estimate timeline
 ---

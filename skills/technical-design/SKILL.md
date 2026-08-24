@@ -1,4 +1,5 @@
 ---
+name: technical-design
 title: System Design & Architecture
 description: Define the technical architecture, components, and data models
 ---
