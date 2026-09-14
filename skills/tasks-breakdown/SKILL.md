@@ -1,7 +1,7 @@
 ---
 name: tasks-breakdown
 title: Project Planning & Task Breakdown
-description: Break down work into actionable tasks and estimate timeline
+description: Break an agreed scope into implementation tasks and dependencies.
 ---
 
 # Project Planning & Task Breakdown

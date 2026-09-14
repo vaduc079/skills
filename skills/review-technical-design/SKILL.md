@@ -1,6 +1,6 @@
 ---
 name: review-technical-design
-description: Review technical design for completeness.
+description: Review an existing technical design for completeness, risks, and unresolved decisions.
 ---
 
 Review the design documentation (and other documents if relevant).
